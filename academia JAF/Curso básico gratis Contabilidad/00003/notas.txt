@@ -1,0 +1,136 @@
+ Definición de activo, pasivo y patrimonio neto
+
+El activo, pasivo y patrimonio neto son las tres masas homogéneas que se integran dentro de la contabilidad de una empresa, cuya función principal es dar a conocer la situación económica a un determinado tiempo.
+
+Estos tres elementos contables se presentan en el Balance General, que es el estado financiero donde se informa el rendimiento económico a un determinado tiempo. Teniendo un conocimiento general de los recursos que posee la empresa frente a sus deudas u obligaciones comprometidas.
+
+¿Qué es el activo?
+
+El activo es el conjunto de recursos que dispone la empresa para explotación y comercialización dentro de las actividades que se operan. Un activo está representado en bienes, derechos e inversiones que se logran convertir en dinero en un periodo a corto y largo plazo.
+
+Se considera a un activo como un elemento fundamental para generar beneficios económicos dentro de una actividad comercial o industrial, además, son importantes y necesarios para que funcione de forma correcta y se obtenga esos resultados deseados.
+
+    Te puede interesar: DEFINICIÓN DE ACTIVO EN CONTABILIDAD 
+
+¿Qué es el pasivo?
+
+El pasivo es el grupo de obligaciones y deudas que una empresa tiene con terceros. Es considerado como una responsabilidad de pago que tiene la empresa a un cierto periodo de tiempo, ya sea a corto y largo plazo.
+
+La adquisición y compromiso de pago de un pasivo puede nacer a raíz de una financiación ajena para adquirir nuevos activos dentro de la empresa o también sirve para fortalecer el capital financiero, dando lugar a cubrir ciertas necesidades que se presentan en el entorno empresarial.
+
+Una deuda es una transacción que se ha contraído en un tiempo pasado y en el presente se debe pagar.
+
+    Te puede interesar: DEFINICIÓN DE PASIVO EN CONTABILIDAD 
+
+¿Qué es el patrimonio neto?
+
+El patrimonio neto es el conjunto de recursos que son de propiedad de la empresa, cuya finalidad es disponer dentro de las operaciones que se desarrollan. Un patrimonio neto es la diferencia total que existe entre el activo y el pasivo en contabilidad.
+
+Su valor de este componente del Balance puede surgen gracias a los aportes que dejan los socios a la hora de formar parte de la empresa, así también, se suman los recursos económicos que la misma entidad va generando en sus actividades. De hecho, toda esa masa de partidas contables hace que el capital de la empresa tenga reservas guardadas y fondos propios para disponer en un momento dado.
+
+Se denomina al patrimonio neto como un valor que tiene la empresa por todo su esfuerzo y dedicación que empeña dentro de sus operaciones de negocio.
+
+    Te puede interesar: TIPOS DE PATRIMONIO EN CONTABILIDAD 
+
+Ejemplos de activo, pasivo y patrimonio neto
+
+A continuación citaremos algunos ejemplos comunes o cuentas de activo, pasivo y patrimonio neto que habitualmente se presentan dentro de una empresa.
+Ejemplos de activos
+
+Los activos son elementos que se representan en bienes, inversiones y derechos que tienen la capacidad de generar rentabilidad económica de forma directa e indirecta. Dentro de su estructura pueden presentarse diferentes ejemplos, sin embargo, para entender mejor tenemos que tener en claro su clasificación para agrupar correctamente su cuenta contable.
+
+Activo corriente
+
+Es el grupo de activos que compone e integra a todas las partidas o cuentas que tienen la suficiente capacidad de generar retorno económico antes de un año, como por ejemplo:
+
+    El dinero en efectivo
+    Inversiones a corto plazo
+    Las deudas por cobrar
+    La existencia de las mercaderías
+
+Este grupo de ejemplos se caracterizan por ser activos de mayor movimiento dentro de un entorno empresarial, además, pueden transformarse en dinero o su valor equivalente de manera fácil y rápida, ya que está relacionada a la actividad principal del negocio.
+
+    Te puede interesar: CLASIFICACIÓN DE ACTIVOS CORRIENTES 
+
+Activo no corriente
+
+Es el grupo de activos que no están pensados en generar rentabilidad económica a corto plazo, sino que son elementos que contribuyen al desarrollo comercial o industrial de la empresa, dando un trabajo más eficiente en sus funciones, como por ejemplo:
+
+    Un terreno o edificio
+    Obras en construcción
+    Maquinarias
+    Equipos de trabajo
+    Muebles
+    Computadoras
+    Vehículos
+    Sistemas informáticos
+    Derechos de uso
+
+Todos estos ejemplos del activo no corriente son caracterizados por ser fijos o inmovilizados. Su principal función es colaborar con las actividades que desempeña la empresa, no obstante, por nada en el mundo se los destina a la venta ya que son necesarios para las operaciones de comercialización o producción.
+
+    Te puede interesar: CLASIFICACIÓN DE ACTIVOS NO CORRIENTES 
+
+Ejemplos de pasivos
+
+Los pasivos son deudas que contrae la empresa con terceras personas por el crédito de un servicio o producto. También, se considera un pasivo a aquellas obligaciones que se tienen con entidades externas o personas que ofrecen sus servicios a cambio de una remuneración.
+
+Al igual que el activo, el pasivo es clasificado en dos grupos de cuentas que se diferencia por la naturaleza y el tiempo en que se deben cumplir su pago.
+
+Pasivo corriente
+
+Son las deudas y obligaciones que generar una mayor exigibilidad de pago para la empresa, es decir, son compromisos que se deben pagar prontamente o están dentro de los doce meses siguientes a su pago. Por ejemplo:
+
+    Deudas a los proveedores
+    Deudas con los acreedores
+    Documentos por pagar
+    Sueldos y salarios
+    Impuestos
+    Alquileres 
+
+Estas cuentas deberán ser canceladas antes de los doce meses, por tal motivo, se les consideran a corto plazo o exigibles al igual que los activos corrientes.
+
+Pasivo no corriente
+
+Son deudas y obligaciones que se deben pagar después de una gestión o ciclo contable, es decir, tienen una fecha de caducidad para cumplir el pago después de los doce meses. Entre estas cuentas tenemos:
+
+    Préstamos bancarios
+    Hipotecas por pagar
+    Previsión para beneficios sociales
+    Bonos por pagar
+    Primas por pagar
+    Dividendos por pagar
+
+Todas las cuentas de pasivo no corriente son responsabilidad que en algún momento llegara para la empresa, mientras tanto no son exigibles como las del pasivo corriente, pero, se debe tener presente que esos deberes a pagar llegaran en algún momento y debe existir el dinero suficiente para cubrirlos.
+
+    Más información: CUENTAS CONTABLES PASIVO 
+
+Ejemplos de patrimonio neto
+
+Son los recursos de propiedad de la empresa que pueden surgir por la aportación de los accionistas o dueños de la empresa o por los beneficios no distribuidos. Entre algunos ejemplos que comúnmente encontramos tenemos:
+
+    Capital social
+    Reservas
+    Ajustes de reservas patrimoniales
+    Ajuste de capital
+    Utilidades no distribuidas
+    Utilidad neta de la gestión
+
+Todo el grupo de cuentas del patrimonio neto están caracterizadas por ser de propiedad única de la empresa, de los cuales puede hacer uso en su momento oportuno.
+
+    Te puede interesar: CLASIFICACIÓN DE PATRIMONIO EN CONTABILIDAD 
+
+Relación entre el activo, pasivo y patrimonio neto
+
+La principal relación que llevan estos tres grupos contables es la presentación de la situación financiera a un determinado tiempo. Son componentes de la contabilidad que generan un informe económico (Balance General), donde se conoce la liquidez que se tienen y los deberes que se deben pagar. En relación a esos factores se determina el valor de los recursos económicos propios de la empresa.
+
+Otra relación contable es que existe una ecuación fundamental donde existe una igualdad en los resultados. La ecuación a seguir es:
+
+Activo = Pasivo + Patrimonio neto
+
+El activo esta representan a todo lo que posee la empresa ya sea en bienes, derechos por cobrar o inversiones que se espera un retorno económico.
+
+El pasivo representa a los deberes que la empresa tiene la responsabilidad de pagar con terceras partes y el Patrimonio neto es el importe que hace la diferencia entre el Activo y el Pasivo, siendo el mismo un resultados que representa a los recursos propios de la empresa y de los cuales dispone para distribuir a sus socios o invertir en un desarrollo económico.
+
+    Más información: EJEMPLOS DE CUENTAS DE ACTIVO, PASIVO Y PATRIMONIO 
+
+COMPARTE ESTA INFORMACIÓN:
